@@ -15,6 +15,7 @@ I created this JS library as an open-source project (for studying purposes) to p
    - [Toasts](#toasts)
 3. [Alert Box Design](#alert-box-design)
 4. [Dev](#dev)
+5. [Contributors](#Contributors)
 
 ## Installation Instructions
 - Clone this repository into your project's lib folder.
@@ -72,3 +73,6 @@ It also returns a Promise, so you can use ```then``` to execute an action after 
 
 ## Dev
 - **Gustavo Mancuzo** - [gustavosmanc](https://github.com/gustavosmanc)
+  
+## Contributors
+- **Leonardo Bertoncin** - [lbert1](https://github.com/lbert1)
